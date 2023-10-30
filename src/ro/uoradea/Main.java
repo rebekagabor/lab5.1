@@ -1,6 +1,6 @@
 package ro.uoradea;
 
-public class Main() {
+public class Main {
     public static void main(String[] args){
         Caine dog = new Caine("rexy","yorkshire");
         Caine dog2 = new Caine("tody","nustiu");

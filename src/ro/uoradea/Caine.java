@@ -14,12 +14,11 @@ public class Caine{
 
         this.nume = nume;
     }
-    public void setNume(String nrasa) {
-
-        this.rasa = rasa;
-    }
     public String getNume()
     {return nume;}
-    public String getRasa()
-    {return rasa;}
+
+    public String getRasa() {
+        return rasa;
+    }
+    }
 
